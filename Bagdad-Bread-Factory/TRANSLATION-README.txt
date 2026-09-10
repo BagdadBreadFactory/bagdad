@@ -1,0 +1,1 @@
+Custom EN ⇄ বাংলা translation system added. No Google Translate or external translation service is used. Business name, contact information and footer copyright remain unchanged. Language choice is saved in the browser.
