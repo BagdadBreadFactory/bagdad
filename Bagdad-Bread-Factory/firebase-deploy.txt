@@ -1,0 +1,3 @@
+firebase login
+firebase use bagdadbreadfactorybd
+firebase deploy --only hosting,firestore

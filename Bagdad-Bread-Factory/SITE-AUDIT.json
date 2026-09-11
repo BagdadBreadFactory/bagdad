@@ -1,0 +1,13 @@
+{
+  "product_cards": 51,
+  "menu_images": 20,
+  "add_buttons": 17,
+  "local_reference_issues": [],
+  "script_js_syntax_ok": true,
+  "responsive_breakpoints": [
+    "1100px",
+    "820px",
+    "560px",
+    "350px"
+  ]
+}
